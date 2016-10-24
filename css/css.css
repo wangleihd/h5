@@ -29,11 +29,15 @@ div.img-class {
   text-align: center;
 }
 
-div.img-class.h5 {
-  color: #FF9900;
+.text-orang {
+  color: #dd6600;
 }
 
-div.class-head, i.text-blue{
+.text-red {
+    color: #dd3333;
+}
+
+div.class-head, .text-blue{
   color: #333399;
 }
 
@@ -50,4 +54,8 @@ div.jumbotron {
   background-image: url(../images/h52.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
+}
+
+img.apng {
+    width: 100%
 }
