@@ -29,6 +29,10 @@ div.img-class {
   text-align: center;
 }
 
+.text-white {
+    color: #eeeeee;
+}
+
 .text-orang {
   color: #dd6600;
 }
