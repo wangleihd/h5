@@ -7,9 +7,11 @@ $(function(){
   $('img').addClass('img-responsive');
   $('div.row div.col-md-3').addClass('thumbnail');
 
-  // masonry.desandro.com
-  $('div.review').masonry({
-    itemSelector: '.hreview'
-  })
-
 })
+
+window.onload = function(){
+    // masonry.desandro.com
+    $('div.review').masonry({
+      itemSelector: '.hreview'
+  })
+}
