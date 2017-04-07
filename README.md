@@ -44,3 +44,12 @@
 
 
 
+```js
+var abc = 10;
+let abc = 100;
+console.log(10);
+```
+
+
+
+
